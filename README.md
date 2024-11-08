@@ -60,5 +60,3 @@ Note: Make sure to replace the service and method names with the ones defined in
 ### Configuration
 
 Configure the application properties (if necessary) by editing the src/main/resources/application.properties file. You can adjust port settings or other configurations as needed.
-
-This should guide users on how to access your gRPC Spring Boot API using grpcurl. Let me know if there’s anything more you’d like to include!
